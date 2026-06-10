@@ -1,30 +1,30 @@
-<!-- 🎌 ANIMATED HEADER BANNER -->
+<!-- 🌌 DYNAMIC ANIMATED BANNER -->
 <div align="center">
-  <!-- You can replace the src link below with any high-quality anime GIF you prefer -->
-  <img src="https://i.pinimg.com/originals/7c/4f/83/7c4f83cc728e83bf6509f6e9b46ec6ff.gif" alt="Cyberpunk Anime Banner" width="100%" style="border-radius: 15px;"/>
+  <!-- This targets the GIF you will upload to your repo -->
+  <img src="animated-banner.gif" alt="Dynamic Cyberpunk Banner" width="100%" style="border-radius: 12px; border: 1px solid #30363D; object-fit: cover;"/>
 </div>
 
 <br />
 
-<!-- 💬 ANIMATED TYPING INTRO -->
+<!-- 🔮 NEON TYPING INTRO -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Atul+Yadav+(DPMods);Indian+YouTuber+%26+Website+Developer;I+modify+Games+%26+Apps;Welcome+to+my+GitHub+Workspace!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Digital+Creator+%7C+Multi-Disciplinary+Designer;Graphic+%26+Web+Design+%7C+Video+Editing;Building+with+Firebase+%26+Vercel;Crafting+in+Unity+%26+Godot;Welcome+to+my+Workspace" alt="Typing SVG" />
     </a>
 </div>
 
 <br />
 
-<!-- 🔗 SOCIAL LINKS & CONNECT -->
+<!-- 🔗 SLEEK SOCIAL LINKS -->
 <div align="center">
   <a href="https://dpmods.com">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Globe&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=Google-Chrome&logoColor=A78BFA" alt="Website" />
   </a>
   <a href="https://youtube.com/@dpmods">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=A78BFA" alt="YouTube" />
   </a>
   <a href="https://instagram.com/itz.atul.yadav">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram" />
   </a>
 </div>
 
@@ -32,27 +32,21 @@
 
 ---
 
-### ⚡ Tech Stack & Arsenal
+### ⚡ Arsenal & Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=A78BFA" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Python" />
+  <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=A78BFA" alt="Unity" />
+  <img src="https://img.shields.io/badge/Godot-111111?style=for-the-badge&logo=godot-engine&logoColor=A78BFA" alt="Godot" />
+  <img src="https://img.shields.io/badge/After_Effects-111111?style=for-the-badge&logo=adobe-after-effects&logoColor=A78BFA" alt="After Effects" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=A78BFA" alt="HTML5" />
 </div>
 
 <br />
 
 ### 📊 GitHub Activity
-<!-- These cards automatically update based on your profile stats. The 'tokyonight' theme matches the dark/purple anime aesthetic. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPModsYT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DPModsYT's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPModsYT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
-<!-- 👾 ANIME FOOTER GIF -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/a0/cb/0b/a0cb0b40eb93051a80b8e73de7aed156.gif" width="250" alt="Anime Chibi Footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DPModsYT&show_icons=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0D1117&hide_border=true&border_radius=12" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPModsYT&layout=compact&title_color=A78BFA&text_color=c9d1d9&bg_color=0D1117&hide_border=true&border_radius=12" alt="Top Languages" width="48%" />
 </div>
