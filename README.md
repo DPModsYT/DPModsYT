@@ -1,7 +1,7 @@
 <!-- 🌌 DYNAMIC ANIMATED BANNER -->
 <div align="center">
-  <!-- This targets the GIF you will upload to your repo -->
-  <img src="animated-banner.gif" alt="Dynamic Cyberpunk Banner" width="100%" style="border-radius: 12px; border: 1px solid #30363D; object-fit: cover;"/>
+  <!-- The width and height are strictly set here to prevent the image from being too massive -->
+  <img src="animated-banner.gif" alt="DPMods Cyberpunk Banner" width="850" height="300" style="border-radius: 20px; object-fit: cover; border: 1px solid #30363D;" />
 </div>
 
 <br />
@@ -9,7 +9,7 @@
 <!-- 🔮 NEON TYPING INTRO -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Digital+Creator+%7C+Multi-Disciplinary+Designer;Graphic+%26+Web+Design+%7C+Video+Editing;Building+with+Firebase+%26+Vercel;Crafting+in+Unity+%26+Godot;Welcome+to+my+Workspace" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+DPMods;Digital+Creator+%26+Multi-Disciplinary+Designer;Android+Modding+%26+Reverse+Engineering;Building+with+Firebase+%26+Vercel;Crafting+Custom+UI+%26+Web+Projects;Welcome+to+my+Workspace!" alt="Typing SVG" />
     </a>
 </div>
 
@@ -47,6 +47,6 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPModsYT&show_icons=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0D1117&hide_border=true&border_radius=12" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPModsYT&layout=compact&title_color=A78BFA&text_color=c9d1d9&bg_color=0D1117&hide_border=true&border_radius=12" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DPModsYT&show_icons=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0D1117&hide_border=true&border_radius=15" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPModsYT&layout=compact&title_color=A78BFA&text_color=c9d1d9&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" width="48%" />
 </div>
