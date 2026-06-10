@@ -1,7 +1,7 @@
 <!-- 🌌 DYNAMIC ANIMATED BANNER -->
 <div align="center">
-  <!-- The width and height are strictly set here to prevent the image from being too massive -->
-  <img src="animated-banner.gif" alt="DPMods Cyberpunk Banner" width="850" height="300" style="border-radius: 20px; object-fit: cover; border: 1px solid #30363D;" />
+  <!-- Ensure you upload your pre-cropped, wide animated-banner.gif to your repo -->
+  <img src="animated-banner.gif" alt="DPMods Cyberpunk Banner" width="850" style="border-radius: 20px; border: 1px solid #30363D;" />
 </div>
 
 <br />
