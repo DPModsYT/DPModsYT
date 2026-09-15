@@ -23,9 +23,6 @@
   <a href="https://youtube.com/@dpmods">
     <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=A78BFA" alt="YouTube" />
   </a>
-  <a href="https://instagram.com/itz.atul.yadav">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram" />
-  </a>
 </div>
 
 <br />
