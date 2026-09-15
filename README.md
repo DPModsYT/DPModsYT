@@ -35,9 +35,8 @@
 ### 👋 About Me
 
 ```yaml
-name: Atul Yadav
 alias: DPMods
-location: Madhya Pradesh, India
+location: India
 role: YouTuber · Website Developer · Android Modder
 focus: Modified games & apps, custom web tools, reverse engineering
 currently: Building small utility apps + growing DPMods on YouTube
