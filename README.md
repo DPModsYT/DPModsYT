@@ -8,7 +8,7 @@
 <!-- 🔮 NEON TYPING INTRO -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+DPMods+;Indian+YouTuber+%26+Website+Developer;Android+Modding+%26+Reverse+Engineering;Building+with+Firebase+%26+Vercel;Crafting+Custom+UI+%26+Web+Projects;Welcome+to+my+Workspace!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+DPMods;Indian+YouTuber+%26+Website+Developer;Android+Modding+%26+Reverse+Engineering;Building+with+Firebase+%26+Vercel;Crafting+Custom+UI+%26+Web+Projects;Welcome+to+my+Workspace%21" alt="Typing SVG" />
     </a>
 </div>
 
