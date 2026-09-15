@@ -1,7 +1,6 @@
-<!-- 🌌 DYNAMIC ANIMATED BANNER -->
+<!-- 🌌 ANIMATED SVG WAVE BANNER -->
 <div align="center">
-  <!-- Ensure you upload your pre-cropped, wide animated-banner.gif to your repo -->
-  <img src="animated-banner.gif" alt="DPMods Cyberpunk Banner" width="850" style="border-radius: 20px; border: 1px solid #30363D;" />
+  <img src="banner.svg" alt="DPMods Animated Wave Banner" width="850" style="border-radius: 20px; border: 1px solid #30363D;" />
 </div>
 
 <br />
