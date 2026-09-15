@@ -35,7 +35,7 @@
 ### 👋 About Me
 
 ```yaml
-alias: DPMods
+Name: DPMods
 location: India
 role: YouTuber · Website Developer · Android Modder
 focus: Modified games & apps, custom web tools, reverse engineering
